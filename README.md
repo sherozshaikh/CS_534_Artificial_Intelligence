@@ -1,9 +1,9 @@
-# Credit Card Fraud Detection Using Machine Learning
-
 ## University & Course Details
 - Course: CS 534 - Artificial Intelligence
 - University: Worcester Polytechnic Institute
 - Semester: Fall 2023
+
+## Credit Card Fraud Detection Using Machine Learning
 
 ## Authors
 - [Christina Berthiaume](https://github.com/christinaberthiaume)
