@@ -1,19 +1,18 @@
-## University & Course Details
-- Course: CS 534 - Artificial Intelligence
-- University: Worcester Polytechnic Institute
-- Semester: Fall 2023
+# University & Course Details
+- **Course**: CS 534 - Artificial Intelligence
+- **University**: Worcester Polytechnic Institute
+- **Semester**: Fall 2023
 
-## Credit Card Fraud Detection Using Machine Learning
+# 💳 Credit Card Fraud Detection Using Machine Learning
 
-## Authors
+## 👨‍💻 Authors
 - [Christina Berthiaume](https://github.com/christinaberthiaume)
 - [Nathaniel Itty](https://github.com/nathanielitty)
 - [Owen Radcliffe](https://github.com/radcliffeowe)
 - [Sheroz Shaikh](https://github.com/sherozshaikh)
 
+## 📄 Abstract
+As digital transactions continue to grow in number, credit card fraud has become a major concern. This paper presents a comprehensive study aimed at evaluating and comparing the performance of four machine learning methods for detecting credit card fraud. The algorithms examined are Logistic Regression, K-Nearest Neighbors (KNN), Naive Bayes, and Support Vector Machine (SVM), all applied to a credit card fraud dataset with over 2.4 million transactions. Given the high imbalance in the dataset (most transactions are not fraudulent), we address this with resampling techniques. Our goal is to minimize false negatives, ensuring that all instances of fraud are detected. We train, evaluate, and compare the models, emphasizing not just accuracy but also sensitivity.
 
-## Abstract
-As digital transactions become increasingly prevalent, the risk of credit card fraud has grown substantially, necessitating the development of robust and effective fraud detection systems. This paper presents a comprehensive study that evaluates and compares the performance of four prominent machine learning methods, Logistic Regression, K-Nearest Neighbors (KNN), Naive Bayes, and Support Vector Machine (SVM), in the context of credit card fraud classification. The dataset we are using to train these models contains information on over 2.4 million transactions, including information on the card and the user. Since most of the transactions are not fraudulent, we have a very imbalanced dataset. Therefore, we first resample the data before training our classification models. Next, we train our four machine learning models and evaluate them, choosing the best model for our goal. In this case, we must minimize the number of false negatives or cases where the model predicts that there is no credit card fraud when there is because we want to correctly classify all the instances of fraud. We will choose the model that not only has good accuracy but also has good sensitivity.
-
-## Keywords
-Classification, Imbalanced dataset, Undersampling, Logistic Regression, K-Nearest Neighbors, Naïve Bayes, Support Vector Machine, Credit Card Fraud, Ensemble methods, Bagging, Boosting, Stacking
+## 🔑 Keywords
+Classification, Imbalanced Dataset, Undersampling, Logistic Regression, K-Nearest Neighbors, Naive Bayes, Support Vector Machine, Credit Card Fraud, Ensemble Methods, Bagging, Boosting, Stacking
