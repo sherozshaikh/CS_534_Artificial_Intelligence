@@ -1,4 +1,4 @@
-# University & Course Details
+# 🎓 University & Course Details
 - **Course**: CS 534 - Artificial Intelligence
 - **University**: Worcester Polytechnic Institute
 - **Semester**: Fall 2023
